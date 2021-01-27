@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Calendar</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.701961 0 0 0 0 0.756863 0 0 0 0 0.807843 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="1.0-Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Icons" transform="translate(-338.000000, -304.000000)">
+            <g id="Icon-Copy-21" transform="translate(339.000000, 305.000000)" filter="url(#filter-1)">
+                <g>
+                    <path d="M12,11.6842105 C12,11.8585263 11.8585263,12 11.6842105,12 L0.315789474,12 C0.141473684,12 0,11.8585263 0,11.6842105 L0,1.57894737 C0,1.40463158 0.141473684,1.26315789 0.315789474,1.26315789 L11.6842105,1.26315789 C11.8585263,1.26315789 12,1.40463158 12,1.57894737 L12,11.6842105 L12,11.6842105 Z" id="Stroke-192" stroke="#B3C1CE" stroke-width="1.2"></path>
+                    <line x1="0.315789474" y1="4.42105263" x2="11.6842105" y2="4.42105263" id="Stroke-194" stroke="#B3C1CE" stroke-width="1.2"></line>
+                    <line x1="2.84210526" y1="0" x2="2.84210526" y2="2.52631579" id="Stroke-196" stroke="#B3C1CE" stroke-width="1.2"></line>
+                    <line x1="9.15789474" y1="2.52631579" x2="9.15789474" y2="0" id="Stroke-198" stroke="#B3C1CE" stroke-width="1.2"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

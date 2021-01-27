@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/User-thin</title>
+    <g id="1.0-Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-613.000000, -212.000000)" fill-rule="nonzero" stroke="#4A5B6D" stroke-width="1.2">
+            <g id="Group" transform="translate(613.000000, 212.000000)">
+                <g id="Group-3" transform="translate(1.000000, 1.000000)">
+                    <path d="M14.5454545,4.54545455 C14.5454545,2.03503031 12.5104813,0 10,0 C7.48951867,0 5.45454545,2.03503031 5.45454545,4.54545455 C5.45454545,7.05587878 7.48951867,9.09090909 10,9.09090909 C12.5104813,9.09090909 14.5454545,7.05587878 14.5454545,4.54545455 L14.5454545,4.54545455 Z" id="Path"></path>
+                    <path d="M20,18.2828283 C20,18.4316579 17.7452811,12.7272727 10,12.7272727 C2.25471885,12.7272727 0,18.4316579 0,18.2828283" id="Path-Copy" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

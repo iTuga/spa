@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="6px" viewBox="0 0 12 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Down</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.701961 0 0 0 0 0.756863 0 0 0 0 0.807843 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="1.0-Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-311.000000, -308.000000)">
+            <g id="Group" transform="translate(312.000000, 308.000000)" filter="url(#filter-1)">
+                <g transform="translate(4.874790, 3.050000) rotate(-270.000000) translate(-4.874790, -3.050000) translate(0.874790, -2.950000)">
+                    <path d="M3.94840909,0.0915909072 C4.33500842,0.0915909072 4.64840909,0.404991582 4.64840909,0.791590907 L4.64840909,6.68840909 C4.64840909,7.07500842 4.33500842,7.38840909 3.94840909,7.38840909 C3.56180977,7.38840909 3.24840909,7.07500842 3.24840909,6.68840909 L3.24840909,0.791590907 C3.24840909,0.404991582 3.56180977,0.0915909072 3.94840909,0.0915909072 Z" id="Rectangle-2" stroke="#B3C1CE" stroke-width="0.2" fill="#B3C1CE" transform="translate(3.948409, 3.740000) rotate(-45.000000) translate(-3.948409, -3.740000) "></path>
+                    <path d="M3.94840909,4.36786406 C4.33500842,4.36786406 4.64840909,4.68126473 4.64840909,5.06786406 L4.64840909,10.9646822 C4.64840909,11.3512816 4.33500842,11.6646822 3.94840909,11.6646822 C3.56180977,11.6646822 3.24840909,11.3512816 3.24840909,10.9646822 L3.24840909,5.06786406 C3.24840909,4.68126473 3.56180977,4.36786406 3.94840909,4.36786406 Z" id="Rectangle-2-Copy" stroke="#B3C1CE" stroke-width="0.2" fill="#B3C1CE" transform="translate(3.948409, 8.016273) rotate(-135.000000) translate(-3.948409, -8.016273) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

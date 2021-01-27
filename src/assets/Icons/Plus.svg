@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Plus</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.701961 0 0 0 0 0.756863 0 0 0 0 0.807843 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="1.0-Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-211.000000, -304.000000)">
+            <g id="Icons/Plus" transform="translate(211.000000, 303.000000)" filter="url(#filter-1)">
+                <g id="Group" transform="translate(0.800000, 0.400000)" fill="#4A5B6D">
+                    <path d="M0.7,7.06 L13.7,7.06 C14.0865993,7.06 14.4,7.37340068 14.4,7.76 C14.4,8.14659932 14.0865993,8.46 13.7,8.46 L0.7,8.46 C0.313400675,8.46 -4.08088625e-14,8.14659932 -4.08562073e-14,7.76 C-4.09035521e-14,7.37340068 0.313400675,7.06 0.7,7.06 Z" id="Rectangle-Copy-20" transform="translate(7.200000, 7.760000) rotate(-270.000000) translate(-7.200000, -7.760000) "></path>
+                    <path d="M0.7,7.06 L13.7,7.06 C14.0865993,7.06 14.4,7.37340068 14.4,7.76 C14.4,8.14659932 14.0865993,8.46 13.7,8.46 L0.7,8.46 C0.313400675,8.46 4.73447626e-17,8.14659932 0,7.76 C-4.73447626e-17,7.37340068 0.313400675,7.06 0.7,7.06 Z" id="Rectangle-Copy-20"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
